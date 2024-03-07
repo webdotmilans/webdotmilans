@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **vyatha1.0**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **NEXTJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/webdotmilans](https://github.com/webdotmilans)
 
